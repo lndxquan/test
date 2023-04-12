@@ -1,0 +1,69 @@
+﻿Variable name ,describption
+inform1,Tried to learn the (official) organizational structure?
+inform2,Tried to learn the important policies and procedures in the organization?
+inform3,Tried to learn the politics of the organization?
+inform4,Tried to learn the (unofficial) structure?
+feed1,Sought feedback on your performance after assignments?
+feed2,Solicited critiques from your boss?
+feed3,Sought out feedback on your performance during assignments?
+feed4,Asked for your boss's opinion on your work?
+social1,"Participated in social office events to meet people (i.e., parties, softball team, outings, clubs, lunches)?"
+social2,Attended company social gatherings?
+social3,Attended office parties?
+network1,Started conversations with people from different segments of the company?
+network2,Tried to socialize with people who are not in your department?
+network3,Tried to get to know as many people as possible in other sections of the company on a personal basis?
+boss1,Tried to spend as much time as you could with your boss?
+boss2,Tried to form a good relationship with your boss?
+boss3,Worked hard to get to know your boss?
+mastery1,You are confident about the adequacy of your job skills and abilities.
+mastery2,You feel competent conducting your job assignments.
+mastery3,It seems to take you longer than planned to complete your job assignments. (R)
+mastery4,You rarely make mistakes when conducting your job assignments.
+integration1,People in my immediate work group help me find ways to do a better job.
+integration2,I discuss personal problems with individuals in my immediate work group.
+integration3,I feel comfortable around my co-workers.
+integration4,My co-workers seem to accept me as one of them.
+clarity1,It is unclear to me exactly what I should do in order to perform my job better. (R)
+clarity2,I really get little useful information about performance standards within my department. (R)
+clarity3,Information about how I performance will be evaluated has been directly communicated to me.
+clarity4,People around here give pretty consistent information about what I can do to perform better in my jobs.
+pro_per1,I am constantly on the lookout for new ways to improve my life.
+pro_per2,"Wherever I have been, I have been a powerful force for constructive change."
+pro_per3,Nothing is more exciting than seeing my ideas turn into reality.
+pro_per4,"If I see something I don’t like, I fix it."
+pro_per5,"No matter what the odds, if I believe in something I will make it happen."
+pro_per6,"I love being a champion for my ideas, even against others’ opposition."
+pro_per7,I excel at identifying opportunities.
+pro_per8,I am always looking for better ways to do things.
+pro_per9,"If I believe in an idea, no obstacle will prevent me from making it happen."
+pro_per10,I can spot a good opportunity long before others can.
+sub_age,Subordinate age (years)
+sub_gender,Subordinate gender
+sub_edu,Subordinate education
+sub_tenure,Subordinate tenure (months)
+perform1,Adequately completes assigned duties.
+perform2,Fulfills responsibilities specified in job description.
+perform3,Performs tasks that are expected of him/her.
+perform4,Meets formal performance requirements of the job.
+perform5,Engages in activities that will directly affect his/her performance evaluation.
+perform6,Neglects aspects of the job he/she is obligated to perform. (R)
+perform7,Fails to perform essential duties. (R)
+proficiency1,Employee's quantity of work is higher than average.
+proficiency2,The quality of work is much higher than average.
+proficiency3,The employee's efficiency is much higher than average.
+proficiency4,Employee's standards of work quality are higher than the formal standards for this job.
+proficiency5,Employee strives for higher quality work than required.
+proficiency6,Employee upholds highest professional standards.
+dedication1,Put in extra hours to get work done on time.
+dedication2,Pay close attention to important details.
+dedication3,Work harder than necessary.
+dedication4,Ask for a challenging work assignment.
+dedication5,Exercise personal discipline and self-control.
+dedication6,Take the initiative to solve a work problem.
+dedication7,Persist in overcoming obstacles to complete a task.
+dedication8,Tackle a difficult work assignment enthusiastically.
+sup_age,Supervisor age (years)
+sup_gender,Supervisor gender
+sup_tenure,Supervisor tenure (years)
+sup_edu,Supervisor education
